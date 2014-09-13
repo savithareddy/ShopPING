@@ -66,7 +66,7 @@ Description:
 	Start Shopping sends information to all the users in your group telling them to update their list.At this point any user in your family/group can change any list features. The user who is shopping can inform all their family/group that shopping has ended and any items added now will not be shopped.
 
 
-Website: 		http://savithareddy.github.io/ShopPING
+Website: 	http://savithareddy.github.io/ShopPING
 
 Support URL:	https://github.com/savithareddy/ShopPING/issues
 
